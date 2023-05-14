@@ -776,6 +776,10 @@ article.container::before {
   margin-block-start: 20px;
 }
 
+.highlights .card-sm.two .card-item {
+  justify-content: flex-start;
+}
+
 @media (min-width: 768px) {
   .container {
     padding: 24px;
